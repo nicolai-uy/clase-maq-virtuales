@@ -1,0 +1,1 @@
+Porque depende en que computadora fue compilado, puede ejecutarse en una maquina de similares caracterisicas a donde fue compilada.
